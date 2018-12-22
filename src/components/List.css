@@ -1,13 +1,15 @@
 
-.list__number.red {
+.list__number + .red {
     background: red;
 }
-.list__number.white {
+.list__number + .white {
     background: white;
-  }
-.list__number.blue {
+}
+
+.list__number + .blue {
     background: blue;
-  }
-.list__number.green {
+}
+
+.list__number + .green {
     background: green;
 }
