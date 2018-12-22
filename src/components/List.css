@@ -1,0 +1,13 @@
+
+.list__number.red {
+    background: red;
+}
+.list__number.white {
+    background: white;
+  }
+.list__number.blue {
+    background: blue;
+  }
+.list__number.green {
+    background: green;
+}
